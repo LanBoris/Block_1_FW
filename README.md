@@ -15,4 +15,9 @@
 3. Файл README.md создан и хранится в репозитории.
 4. Программа находится в папке finalProject.
 5. Ниже предствлен git log:
-* 
+* 86f24a0 (HEAD -> master, origin/master) Fill the README.md
+* c1df9f2 Add file Diagram of solution method
+* 521cb47 Add solution of problem
+* 710dfbb Create FillArrray
+* a1ab9f9 Create README
+* 0dc8b45 Create repository and finalProject
